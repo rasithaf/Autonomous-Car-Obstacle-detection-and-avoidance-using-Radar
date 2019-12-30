@@ -21,7 +21,7 @@ Use the following steps mentioned below to run the RC car with mounted Radar
 
 • CAN launch in a new terminal: roslaunch kvaser_interface kvaser_can_bridge.launch 
 
-• Read the document on Perceptin SSR 2.0 Radar to understand the code
+• Read the Manual for Perceptin SSR 2.0 Radar to understand the code
 
 • Radar code in a new terminal: rosrun radar radar_publisher.py 
 
