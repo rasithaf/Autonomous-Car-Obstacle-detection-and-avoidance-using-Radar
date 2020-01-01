@@ -10,7 +10,7 @@ ROS Melodic,
 Numpy,
 OpenCV
 
-# Steps to run RC Car with Radar: 
+# Steps to run RC Car in Autonomous mode with Radar: 
 
 • Before executing the commands in the terminal, we have to make sure RC car is setup with radar, CAN device, Jetson Nano mounted on it and all the batteries are connected. 
 [ two 11.1V batteries and one 7.4V] 
