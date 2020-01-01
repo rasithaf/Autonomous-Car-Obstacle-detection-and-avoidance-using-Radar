@@ -1,5 +1,14 @@
 # Obstacle-detection-and-avoidance-using-Radar
-Perception SSR 2.0 Radar is used and Programming is done in Python for ROS environment
+
+This project was built on Jetson Nano developer kit, RC Car, and Perception SSR 2.0 Radar.
+
+I tested the project on the following environment:
+
+Ubuntu 18.04
+Python
+ROS Melodic
+Numpy
+OpenCV
 
 Steps to run RC Car with Radar: 
 
@@ -27,4 +36,6 @@ Use the following steps mentioned below to run the RC car with mounted Radar
 
 ** Don’t forget to source devel/setup.bash all new terminals 
 ** Read the Manual for Perceptin SSR 2.0 Radar to understand the code
+
+Output: https://www.youtube.com/watch?v=EJrg3fXb-l0
 
