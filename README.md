@@ -4,10 +4,10 @@ This project was built on Jetson Nano developer kit, RC Car, and Perception SSR 
 
 I tested the project on the following environment:
 
-Ubuntu 18.04
-Python
-ROS Melodic
-Numpy
+Ubuntu 18.04,
+Python,
+ROS Melodic,
+Numpy,
 OpenCV
 
 Steps to run RC Car with Radar: 
