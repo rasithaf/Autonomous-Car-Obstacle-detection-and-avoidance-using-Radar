@@ -10,7 +10,7 @@ ROS Melodic,
 Numpy,
 OpenCV
 
-Steps to run RC Car with Radar: 
+# Steps to run RC Car with Radar: 
 
 • Before executing the commands in the terminal, we have to make sure RC car is setup with radar, CAN device, Jetson Nano mounted on it and all the batteries are connected. 
 [ two 11.1V batteries and one 7.4V] 
@@ -37,5 +37,5 @@ Use the following steps mentioned below to run the RC car with mounted Radar
 ** Don’t forget to source devel/setup.bash all new terminals 
 ** Read the Manual for Perceptin SSR 2.0 Radar to understand the code
 
-Output: https://www.youtube.com/watch?v=EJrg3fXb-l0
+# Output: https://www.youtube.com/watch?v=EJrg3fXb-l0
 
