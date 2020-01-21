@@ -2,7 +2,7 @@
 
 This project was built on Jetson Nano developer kit, RC Car, and Perception SSR 2.0 Radar.
 
-I tested the project on the following environment:
+I tested the project on the following environment: (If you are not using ROS environment, remove the ros commands in the code) 
 
 Ubuntu 18.04,
 Python,
@@ -25,6 +25,8 @@ Pre-requisite:
 • Clone the kvaser interface into the catkin workspace: https://github.com/astuff/kvaser_interface 
 
 Use the following steps mentioned below to run the RC car with mounted Radar 
+
+• Make a ROS package for radar_publisher.py and servo_subscriber.py 
 
 • ROS node in a new terminal: roscore 
 
