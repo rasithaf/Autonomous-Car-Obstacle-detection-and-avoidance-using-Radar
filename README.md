@@ -39,5 +39,6 @@ Use the following steps mentioned below to run the RC car with mounted Radar
 ** Don’t forget to source devel/setup.bash all new terminals 
 ** Read the Manual for Perceptin SSR 2.0 Radar to understand the code
 
-# Output: https://www.youtube.com/watch?v=EJrg3fXb-l0
+Output video: https://www.youtube.com/watch?v=EJrg3fXb-l0
+                    
 
